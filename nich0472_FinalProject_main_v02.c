@@ -1,7 +1,7 @@
 /*
 Date: 02 Apr 2023
 Name: William Nichols, Brock Bye, Jake Borham
-Student ID number: 5667529 , ,
+Student ID number: 5667529 , 5583303 , 5686531
 Course number: EE-2361
 Term: Spring 2023
 Lab/assignment number: Final Project
